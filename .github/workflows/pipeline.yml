@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 env:
-  NAME:'Demo'
+  NAME:'OUI Demo'
 
 
 jobs:
